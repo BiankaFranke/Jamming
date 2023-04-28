@@ -1,0 +1,32 @@
+.list {
+    background-color: rgba(59, 9, 68, 0.5);
+    padding-top: 2rem;
+    min-width: 40vw;
+    min-height: 75vh;
+}
+
+#plyList {
+    background-color: transparent;
+    border: none;
+    border-bottom: 3px solid rgba(250, 250, 250, 0.3);
+    max-width: 90%;
+    min-height: 3rem;
+    outline: none;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    color: white;
+    opacity: 0.5;
+}
+
+.saveBtn {
+    background-color: #3b0944;
+    color: #FFFFFF;
+    font-size: 1rem;
+    font-weight: 600;
+    padding: 0.8rem 1.5rem;
+    margin: 2rem 0rem;
+    border-radius: 10rem;
+    border: none;
+    text-transform: uppercase;
+    cursor: pointer;
+}

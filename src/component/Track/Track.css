@@ -1,0 +1,17 @@
+.TrackBtn {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+.singleTrack {
+    padding-left: 2rem;
+}
+
+.artist {
+    font-weight: 600;
+}
+
+.album {
+    font-style:italic
+}

@@ -1,0 +1,11 @@
+.results {
+    min-width: 40vw;
+    min-height: 75vh;
+    background-color: rgba(59, 9, 68, 0.5);
+    padding-top: 2rem;
+    text-align: left;
+}
+
+.results h2 {
+    padding-left: 2rem;
+}

@@ -1,0 +1,13 @@
+.Header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #FFFFFF;
+    font-size: 1.5rem;
+    background-color: #3b0944;
+    height: 7vh;
+}
+
+span {
+    color: blueviolet;
+}

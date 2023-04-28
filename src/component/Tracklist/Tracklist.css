@@ -1,0 +1,10 @@
+.singleTrack {
+    text-align: left;
+    padding-left: 1rem;
+    border-bottom: 3px solid rgba(250, 250, 250, 0.3);
+}
+
+.TrackHeader {
+    display: flex;
+    align-items: baseline;
+}
